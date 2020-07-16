@@ -27,8 +27,11 @@ This Project has no real end date, however a **code review deadline** was set fo
 
 ## Referencing my real CV
 ## HTML
+[html](https://i.imgur.com/MNnplSc.png)
 ## CSS
+[css](https://i.imgur.com/UErHmXt.png)
 ## Static S3 Website
+[s3](https://i.imgur.com/30BcKaN.png)
 ## HTTPS
 ## DNS
 ## JavaScript
