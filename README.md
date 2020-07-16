@@ -9,22 +9,34 @@ This Project has no real end date, however a **code review deadline** was set fo
 
 ## Table of Contents
 
-1. [2. HTML]()
-2. [3. CSS]()
-3. [4.Static S3 Website]()
-4. [5. HTTPS]()
-5. [6. DNS]()
-6. [7.JavaScript]()
-7. [8. Database]()
-8. [9. API]()
-9. [10. Python]()
-10. [11. Test]()
-11. [12. Infrastructure as Code]()
-12. [13. Source Control]()
-13.
+1. [Referencing my real CV]()
+2. [HTML]()
+3. [CSS]()
+4. [Static S3 Website]()
+5. [HTTPS]()
+6. [DNS]()
+7. [JavaScript]()
+8. [Database]()
+9. [API]()
+10. [Python]()
+11. [Test]()
+12. [Infrastructure as Code]()
+13. [Source Control]()
+14. [CI/CD(Front end)]()
+15. [CI/CD(Back end)]()
 
- 
-
-
-## Brief
-As quoted from 'QAC - Fundamental Project Specification (DevOps Core)-revised':
+## Referencing my real CV
+## HTML
+## CSS
+## Static S3 Website
+## HTTPS
+## DNS
+## JavaScript
+## Database
+## API
+## Python
+## Test
+## Infrastructure as Code
+## Source Control
+## CI/CD (Front end)
+## CI/CD (Back end)
