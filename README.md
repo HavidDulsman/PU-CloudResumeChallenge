@@ -26,6 +26,7 @@ This Project has no real end date, however a **code review deadline** was set fo
 15. [CI/CD(Back end)]()
 
 ## Referencing my real CV
+![CV](https://i.imgur.com/FYK7P4X.png)
 ## HTML
 ![html](https://i.imgur.com/MNnplSc.png)
 ## CSS
@@ -33,7 +34,10 @@ This Project has no real end date, however a **code review deadline** was set fo
 ## Static S3 Website
 ![s3](https://i.imgur.com/30BcKaN.png)
 ## HTTPS
+![https](https://i.imgur.com/8mfkfbJ.png)
+![https](https://i.imgur.com/jNAkBKU.png)
 ## DNS
+![dns](https://i.imgur.com/LvxY8jB.png)
 ## JavaScript
 ## Database
 ## API
