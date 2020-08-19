@@ -26,11 +26,20 @@ This Project has no real end date, however a **code review deadline** was set fo
 15. [CI/CD(Back end)]()
 
 ## Referencing my real CV
+Below is a copy of my CV, made on word and the same CV I send regarding some of the more technology based jobs. I'm quite proud of the styling and strucuture of my original CV so i was planning to try and emulate the styling to the tee further down the line. Some inspiration was taken from my past experience and the use of HTMl, CSS and JavaScript would allow me to do new things to my CV that wouldnt be possible in a PDF or Word document.
 ![CV](https://i.imgur.com/FYK7P4X.png)
 ## HTML
+HTML is simply a **markup language**, so not much detail will be put into this as its quite easy to grasp! HTML will allow me to use new tools such as **links to my qualifications, email and github accounts** to make the overall experience feel abit more **interactive and unique!**
 ![html](https://i.imgur.com/MNnplSc.png)
+
 ## CSS
+CSS was alot of fun to use and learn. Previous to this project, i had very light (and quite messy!) CSS skills from my experience in early college and university years. Since then, I had no real reason to go back to CSS Styling or much front end development due to my postgraduate focusing alot on the methodologies and uses of technologies in a business sense, and then my 2 recent jobs not really involving the use of CSS. 
+
+CSS allows me to do some cool things with the site, including a **static header** so that my contact details are always at the top, and some similar colour and structure choices!
+
+I did encounter some issues along the way, as my site wasnt properly adapting to smaller screens and mobile devices. I have now learnt to **design for mobiles first**, which makes alot of sense as mobiles are top method of accessing the internet nowadays
 ![css](https://i.imgur.com/UErHmXt.png)
+
 ## Static S3 Website
 ![s3](https://i.imgur.com/30BcKaN.png)
 ## HTTPS
