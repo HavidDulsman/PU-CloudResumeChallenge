@@ -54,7 +54,7 @@ I opted do both of these tasks at the same time, as i knew they would both incor
 ## Python
 ## Test
 ## Infrastructure as Code
-![terraform](https://i.imgur.com/5WB9vrB.png)
+![terraform](https://i.imgur.com/wvfTdUn.png)
 ## Source Control
 ## CI/CD (Front end)
 ## CI/CD (Back end)
