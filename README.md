@@ -41,11 +41,12 @@ I did encounter some issues along the way, as my site wasnt properly adapting to
 ![css](https://i.imgur.com/UErHmXt.png)
 
 ## Static S3 Website
+I had previous used S3 to store website files or AWS logs that would be accessed by other services and had obviously read about it for my AWS Practitioner Exam, but using S3 to host the websites contents was a really good idea! I was easily to implement thanks to the options AWS displays in the settings.
 ![s3](https://i.imgur.com/30BcKaN.png)
-## HTTPS
+## HTTPS and DNS
+I opted do both of these tasks at the same time, as i knew they would both incorporate alot of the same problems. I had previously bought a domain using **GoDaddy Domains**, however i was having an issue creating a SSL ticket and having accepted with GoDaddy (plus there customer support was horrendous! Would not recommend!). I switched to **AWS Route 53** meaning i could quickly link the domain to through a **CloudFront** host using the same SSL certification.  
 ![https](https://i.imgur.com/8mfkfbJ.png)
 ![https](https://i.imgur.com/jNAkBKU.png)
-## DNS
 ![dns](https://i.imgur.com/LvxY8jB.png)
 ## JavaScript
 ## Database
